@@ -10,3 +10,4 @@ In this small project you can find a very simple example of:
  - How to store credentials specific information in a separate variable file avoiding the needs to hardcode it
  - How to launch multiple ec2 instance
  - How to iterate within resources and showing values in output variables
+ - How to create a backend configuration
