@@ -7,7 +7,7 @@ variable "custom_profile" {
 }
 
 variable "region" {
-  default = "eu-west-3"
+  default = "eu-west-1"
 }
 
 variable "amis" {

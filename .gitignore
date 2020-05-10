@@ -1,5 +1,8 @@
 .terraform/
-credentials.tfvars
+######## This are not tracked cause are containing security related info ############
+credentials.tfvars 
+backend.tf
+#####################################################################################################
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.tfstate.lock.info
